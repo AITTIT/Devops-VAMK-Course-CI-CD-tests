@@ -1,0 +1,1 @@
+# Devops-VAMK-Course-CI-CD-tests
